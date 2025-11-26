@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @levipng
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning HTML,PY
-- 💞️ I’m looking to collaborate on anything
 - 📫 Discord: levi.png
 <!---
 levipng/levipng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
